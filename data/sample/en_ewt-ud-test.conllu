@@ -1,0 +1,1306 @@
+
+# sent_id = weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0011
+# text = As the survey cited in the above-linked article shows, most Google users don't intend to use Gmail, and Google isn't even as popular as Yahoo! and AOL.
+1	As	as	SCONJ	IN	_	11	mark	11:mark	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	survey	survey	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+4	cited	cite	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	3:acl	_
+5	in	in	ADP	IN	_	10	case	10:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+7	above	above	ADV	RB	_	9	compound	9:compound	SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	9	punct	9:punct	SpaceAfter=No
+9	linked	link	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	10:amod	_
+10	article	article	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
+11	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	18:advcl:as	SpaceAfter=No
+12	,	,	PUNCT	,	_	18	punct	18:punct	_
+13	most	most	ADJ	JJS	Degree=Sup	15	amod	15:amod	_
+14	Google	Google	PROPN	NNP	Number=Sing	15	compound	15:compound	_
+15	users	user	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj|20:nsubj:xsubj	_
+16	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	18:aux	SpaceAfter=No
+17	n't	not	PART	RB	_	18	advmod	18:advmod	_
+18	intend	intend	VERB	VB	VerbForm=Inf	0	root	0:root	_
+19	to	to	PART	TO	_	20	mark	20:mark	_
+20	use	use	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
+21	Gmail	Gmail	PROPN	NNP	Number=Sing	20	obj	20:obj	SpaceAfter=No
+22	,	,	PUNCT	,	_	29	punct	29:punct	_
+23	and	and	CCONJ	CC	_	29	cc	29:cc	_
+24	Google	Google	PROPN	NNP	Number=Sing	29	nsubj	29:nsubj	_
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	29:cop	SpaceAfter=No
+26	n't	not	PART	RB	_	29	advmod	29:advmod	_
+27	even	even	ADV	RB	_	29	advmod	29:advmod	_
+28	as	as	ADV	RB	_	29	advmod	29:advmod	_
+29	popular	popular	ADJ	JJ	Degree=Pos	18	conj	18:conj:and	_
+30	as	as	ADP	IN	_	31	case	31:case	_
+31	Yahoo!	Yahoo!	PROPN	NNP	Number=Sing	29	obl	29:obl:as	_
+32	and	and	CCONJ	CC	_	33	cc	33:cc	_
+33	AOL	AOL	PROPN	NNP	Number=Sing	31	conj	29:obl:as|31:conj:and	SpaceAfter=No
+34	.	.	PUNCT	.	_	18	punct	18:punct	_
+
+# sent_id = weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0012
+# text = If they continue to add features so they can justify their likely sky-high valuation, Google risks losing a huge chunk of their customer base to the next keep-it-simple search engine.
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+3	continue	continue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	19:advcl:if	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	add	add	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	features	feature	NOUN	NNS	Number=Plur	5	obj	5:obj	_
+7	so	so	SCONJ	IN	_	10	mark	10:mark	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+10	justify	justify	VERB	VB	VerbForm=Inf	5	advcl	5:advcl:so	_
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+12	likely	likely	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+13	sky	sky	NOUN	NN	Number=Sing	15	obl:npmod	15:obl:npmod	SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
+15	high	high	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	valuation	valuation	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
+17	,	,	PUNCT	,	_	19	punct	19:punct	_
+18	Google	Google	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj|20:nsubj:xsubj	_
+19	risks	risk	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+20	losing	lose	VERB	VBG	VerbForm=Ger	19	xcomp	19:xcomp	_
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	23:det	_
+22	huge	huge	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
+23	chunk	chunk	NOUN	NN	Number=Sing	20	obj	20:obj	_
+24	of	of	ADP	IN	_	27	case	27:case	_
+25	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	nmod:poss	27:nmod:poss	_
+26	customer	customer	NOUN	NN	Number=Sing	27	compound	27:compound	_
+27	base	base	NOUN	NN	Number=Sing	23	nmod	23:nmod:of	_
+28	to	to	ADP	IN	_	37	case	37:case	_
+29	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
+30	next	next	ADJ	JJ	Degree=Pos	37	amod	37:amod	_
+31	keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	37	compound	37:compound	SpaceAfter=No
+32	-	-	PUNCT	HYPH	_	31	punct	31:punct	SpaceAfter=No
+33	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	obj	31:obj|35:nsubj:xsubj	SpaceAfter=No
+34	-	-	PUNCT	HYPH	_	31	punct	31:punct	SpaceAfter=No
+35	simple	simple	ADJ	JJ	Degree=Pos	31	xcomp	31:xcomp	_
+36	search	search	NOUN	NN	Number=Sing	37	compound	37:compound	_
+37	engine	engine	NOUN	NN	Number=Sing	20	obl	20:obl:to	SpaceAfter=No
+38	.	.	PUNCT	.	_	19	punct	19:punct	_
+
+# newdoc id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0001
+# text = Remember when a whole lot of people had to die because a Swedish newspaper printed those cartoons of the Prophet Mohammed?
+1	Remember	remember	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	when	when	ADV	WRB	PronType=Int	8	mark	8:mark	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	whole	whole	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	lot	lot	NOUN	NN	Number=Sing	8	nsubj	8:nsubj|10:nsubj:xsubj	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	5:nmod:of	_
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	1:advcl:when	_
+9	to	to	PART	TO	_	10	mark	10:mark	_
+10	die	die	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
+11	because	because	SCONJ	IN	_	15	mark	15:mark	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+13	Swedish	swedish	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	newspaper	newspaper	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
+15	printed	print	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	10:advcl:because	_
+16	those	those	DET	DT	Number=Plur|PronType=Dem	17	det	17:det	_
+17	cartoons	cartoon	NOUN	NNS	Number=Plur	15	obj	15:obj	_
+18	of	of	ADP	IN	_	21	case	21:case	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+20	Prophet	Prophet	PROPN	NNP	Number=Sing	21	compound	21:compound	_
+21	Mohammed	Mohammed	PROPN	NNP	Number=Sing	17	nmod	17:nmod:of	SpaceAfter=No
+22	?	?	PUNCT	.	_	1	punct	1:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0002
+# text = Now Iran wants to turn the tables and is inviting cartoonists to do their best by depicting the Holocaust.
+1	Now	now	ADV	RB	_	3	advmod	3:advmod	_
+2	Iran	Iran	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|5:nsubj:xsubj|10:nsubj	_
+3	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	turn	turn	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	tables	table	NOUN	NNS	Number=Plur	5	obj	5:obj	_
+8	and	and	CCONJ	CC	_	10	cc	10:cc	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+10	inviting	invite	VERB	VBG	VerbForm=Ger	3	conj	3:conj:and	_
+11	cartoonists	cartoonist	NOUN	NNS	Number=Plur	10	obj	10:obj|13:nsubj:xsubj	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	do	do	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	_
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+15	best	best	ADJ	JJS	Degree=Sup	13	obj	13:obj	_
+16	by	by	SCONJ	IN	_	17	mark	17:mark	_
+17	depicting	depict	VERB	VBG	VerbForm=Ger	13	advcl	13:advcl:by	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	Holocaust	Holocaust	PROPN	NNP	Number=Sing	17	obj	17:obj	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0003
+# text = Amazingly, these idiots think a cartoon of Mohammed is comparable to what we can expect in this new fun contest:
+1	Amazingly	amazingly	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	5	punct	5:punct	_
+3	these	these	DET	DT	Number=Plur|PronType=Dem	4	det	4:det	_
+4	idiots	idiot	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
+5	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	cartoon	cartoon	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+8	of	of	ADP	IN	_	9	case	9:case	_
+9	Mohammed	Mohammed	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+11	comparable	comparable	ADJ	JJ	Degree=Pos	5	ccomp	5:ccomp	_
+12	to	to	SCONJ	IN	_	13	case	13:case	_
+13	what	what	PRON	WP	PronType=Int	11	obl	11:obl:to	_
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	16:nsubj	_
+15	can	can	AUX	MD	VerbForm=Fin	16	aux	16:aux	_
+16	expect	expect	VERB	VB	VerbForm=Inf	13	acl:relcl	13:acl:relcl	_
+17	in	in	ADP	IN	_	21	case	21:case	_
+18	this	this	DET	DT	Number=Sing|PronType=Dem	21	det	21:det	_
+19	new	new	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
+20	fun	fun	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
+21	contest	contest	NOUN	NN	Number=Sing	16	obl	16:obl:in	SpaceAfter=No
+22	:	:	PUNCT	:	_	5	punct	5:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0004
+# text = TEHRAN (AFP) -
+1	TEHRAN	TEHRAN	PROPN	NNP	Number=Sing	0	root	0:root	_
+2	(	(	PUNCT	-LRB-	_	1	punct	1:punct	SpaceAfter=No
+3	AFP	AFP	PROPN	NNP	Number=Sing	1	parataxis	1:parataxis	SpaceAfter=No
+4	)	)	PUNCT	-RRB-	_	1	punct	1:punct	_
+5	-	-	PUNCT	:	_	1	punct	1:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0005
+# text = An international contest of cartoons on the Holocaust opened in Tehran in response to the publication in Western papers last September of caricatures of the Prophet Mohammed.
+1	An	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	international	international	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	contest	contest	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+4	of	of	ADP	IN	_	5	case	5:case	_
+5	cartoons	cartoon	NOUN	NNS	Number=Plur	3	nmod	3:nmod:of	_
+6	on	on	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	Holocaust	Holocaust	PROPN	NNP	Number=Sing	5	nmod	5:nmod:on	_
+9	opened	open	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	Tehran	Tehran	PROPN	NNP	Number=Sing	9	obl	9:obl:in	_
+12	in	in	ADP	IN	_	13	case	13:case	_
+13	response	response	NOUN	NN	Number=Sing	9	obl	9:obl:in	_
+14	to	to	ADP	IN	_	16	case	16:case	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	publication	publication	NOUN	NN	Number=Sing	13	nmod	13:nmod:to	_
+17	in	in	ADP	IN	_	19	case	19:case	_
+18	Western	western	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	papers	papers	NOUN	NNS	Number=Plur	16	nmod	16:nmod:in	_
+20	last	last	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
+21	September	September	PROPN	NNP	Number=Sing	16	nmod:tmod	16:nmod:tmod	_
+22	of	of	ADP	IN	_	23	case	23:case	_
+23	caricatures	caricature	NOUN	NNS	Number=Plur	16	nmod	16:nmod:of	_
+24	of	of	ADP	IN	_	26	case	26:case	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
+26	Prophet	Prophet	PROPN	NNP	Number=Sing	23	nmod	23:nmod:of	_
+27	Mohammed	Mohammed	PROPN	NNP	Number=Sing	26	flat	26:flat	SpaceAfter=No
+28	.	.	PUNCT	.	_	9	punct	9:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0006
+# text = "We staged this fair to explore the limits of freedom Westerners believe in," Masoud Shojai, head of the country's "Iran Cartoon" association and the fair organizer, said.
+1	"	"	PUNCT	``	_	35	punct	35:punct	SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	staged	stage	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	35	ccomp	35:ccomp	_
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_
+5	fair	fair	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	explore	explore	VERB	VB	VerbForm=Inf	3	advcl	3:advcl:to	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	limits	limit	NOUN	NNS	Number=Plur	7	obj	7:obj	_
+10	of	of	ADP	IN	_	11	case	11:case	_
+11	freedom	freedom	NOUN	NN	Number=Sing	9	nmod	9:nmod:of	_
+12	Westerners	Westerners	PROPN	NNPS	Number=Plur	13	nsubj	13:nsubj	_
+13	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
+14	in	in	ADP	IN	_	13	obl	13:obl	SpaceAfter=No
+15	,	,	PUNCT	,	_	35	punct	35:punct	SpaceAfter=No
+16	"	"	PUNCT	''	_	35	punct	35:punct	_
+17	Masoud	Masoud	PROPN	NNP	Number=Sing	35	nsubj	35:nsubj	_
+18	Shojai	Shojai	PROPN	NNP	Number=Sing	17	flat	17:flat	SpaceAfter=No
+19	,	,	PUNCT	,	_	17	punct	17:punct	_
+20	head	head	NOUN	NN	Number=Sing	17	appos	17:appos	_
+21	of	of	ADP	IN	_	29	case	29:case	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+23	country	country	NOUN	NN	Number=Sing	29	nmod:poss	29:nmod:poss	SpaceAfter=No
+24	's	's	PART	POS	_	23	case	23:case	_
+25	"	"	PUNCT	``	_	27	punct	27:punct	SpaceAfter=No
+26	Iran	Iran	PROPN	NNP	Number=Sing	27	compound	27:compound	_
+27	Cartoon	Cartoon	PROPN	NNP	Number=Sing	29	compound	29:compound	SpaceAfter=No
+28	"	"	PUNCT	''	_	27	punct	27:punct	_
+29	association	association	PROPN	NNP	Number=Sing	20	nmod	20:nmod:of	_
+30	and	and	CCONJ	CC	_	33	cc	33:cc	_
+31	the	the	DET	DT	Definite=Def|PronType=Art	33	det	33:det	_
+32	fair	fair	NOUN	NN	Number=Sing	33	compound	33:compound	_
+33	organizer	organizer	NOUN	NN	Number=Sing	20	conj	17:appos|20:conj:and	SpaceAfter=No
+34	,	,	PUNCT	,	_	35	punct	35:punct	_
+35	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+36	.	.	PUNCT	.	_	35	punct	35:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0007
+# text = "They can freely write anything they like about our prophet, but if one raises doubts about the Holocaust he is either fined or sent to prison," he added.
+1	"	"	PUNCT	``	_	32	punct	32:punct	SpaceAfter=No
+2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+3	can	can	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+4	freely	freely	ADV	RB	_	5	advmod	5:advmod	_
+5	write	write	VERB	VB	VerbForm=Inf	32	ccomp	32:ccomp	_
+6	anything	anything	PRON	NN	Number=Sing	5	obj	5:obj	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+8	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
+9	about	about	ADP	IN	_	11	case	11:case	_
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	prophet	prophet	NOUN	NN	Number=Sing	6	nmod	6:nmod:about	SpaceAfter=No
+12	,	,	PUNCT	,	_	24	punct	24:punct	_
+13	but	but	CCONJ	CC	_	24	cc	24:cc	_
+14	if	if	SCONJ	IN	_	16	mark	16:mark	_
+15	one	one	PRON	PRP	_	16	nsubj	16:nsubj	_
+16	raises	raise	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	24:advcl:if	_
+17	doubts	doubt	NOUN	NNS	Number=Plur	16	obj	16:obj	_
+18	about	about	ADP	IN	_	20	case	20:case	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+20	Holocaust	Holocaust	PROPN	NNP	Number=Sing	17	nmod	17:nmod:about	_
+21	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj:pass	24:nsubj:pass|26:nsubj:pass	_
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	24:aux:pass	_
+23	either	either	CCONJ	CC	_	24	cc:preconj	24:cc:preconj	_
+24	fined	fine	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	conj	5:conj:but|32:ccomp	_
+25	or	or	CCONJ	CC	_	26	cc	26:cc	_
+26	sent	send	VERB	VBN	Tense=Past|VerbForm=Part	24	conj	24:conj:or	_
+27	to	to	ADP	IN	_	28	case	28:case	_
+28	prison	prison	NOUN	NN	Number=Sing	26	obl	26:obl:to	SpaceAfter=No
+29	,	,	PUNCT	,	_	32	punct	32:punct	SpaceAfter=No
+30	"	"	PUNCT	''	_	32	punct	32:punct	_
+31	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	32:nsubj	_
+32	added	add	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+33	.	.	PUNCT	.	_	32	punct	32:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0008
+# text = "Though we do not deny that fact that Jews were killed in the (second world) war, why should the Palestinians pay for it?"
+1	"	"	PUNCT	``	_	25	punct	25:punct	SpaceAfter=No
+2	Though	though	SCONJ	IN	_	6	mark	6:mark	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+5	not	not	PART	RB	_	6	advmod	6:advmod	_
+6	deny	deny	VERB	VB	VerbForm=Inf	25	advcl	25:advcl:though	_
+7	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	8:det	_
+8	fact	fact	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	that	that	SCONJ	IN	_	12	mark	12:mark	_
+10	Jews	Jews	PROPN	NNPS	Number=Plur	12	nsubj:pass	12:nsubj:pass	_
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux:pass	12:aux:pass	_
+12	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl:that	_
+13	in	in	ADP	IN	_	19	case	19:case	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+15	(	(	PUNCT	-LRB-	_	19	punct	19:punct	SpaceAfter=No
+16	second	second	PROPN	NNP	Number=Sing	19	compound	19:compound	_
+17	world	world	PROPN	NNP	Number=Sing	19	compound	19:compound	SpaceAfter=No
+18	)	)	PUNCT	-RRB-	_	19	punct	19:punct	_
+19	war	war	PROPN	NNP	Number=Sing	12	obl	12:obl:in	SpaceAfter=No
+20	,	,	PUNCT	,	_	25	punct	25:punct	_
+21	why	why	ADV	WRB	PronType=Int	25	advmod	25:advmod	_
+22	should	should	AUX	MD	VerbForm=Fin	25	aux	25:aux	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+24	Palestinians	Palestinians	PROPN	NNPS	Number=Plur	25	nsubj	25:nsubj	_
+25	pay	pay	VERB	VB	VerbForm=Inf	0	root	0:root	_
+26	for	for	ADP	IN	_	27	case	27:case	_
+27	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	obl	25:obl:for	SpaceAfter=No
+28	?	?	PUNCT	.	_	25	punct	25:punct	SpaceAfter=No
+29	"	"	PUNCT	''	_	25	punct	25:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0009
+# text = Shojai told the opening ceremony of the month-long fair in Tehran's Palestine Contemporary Art Museum.
+1	Shojai	Shojai	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	opening	open	VERB	VBG	VerbForm=Ger	5	amod	5:amod	_
+5	ceremony	ceremony	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	of	of	ADP	IN	_	11	case	11:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+8	month	month	NOUN	NN	Number=Sing	10	obl:npmod	10:obl:npmod	SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	10	punct	10:punct	SpaceAfter=No
+10	long	long	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	fair	fair	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	_
+12	in	in	ADP	IN	_	18	case	18:case	_
+13	Tehran	Tehran	PROPN	NNP	Number=Sing	18	nmod:poss	18:nmod:poss	SpaceAfter=No
+14	's	's	PART	POS	_	13	case	13:case	_
+15	Palestine	Palestine	PROPN	NNP	Number=Sing	18	compound	18:compound	_
+16	Contemporary	Contemporary	PROPN	NNP	Number=Sing	17	compound	17:compound	_
+17	Art	Art	PROPN	NNP	Number=Sing	18	compound	18:compound	_
+18	Museum	Museum	PROPN	NNP	Number=Sing	11	nmod	11:nmod:in	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0010
+# text = He added that around 1,100 cartoons were submitted by participants from more than 60 countries and that more than 200 are on show.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	added	add	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	that	that	SCONJ	IN	_	8	mark	8:mark	_
+4	around	around	ADV	RB	_	5	advmod	5:advmod	_
+5	1,100	1,100	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+6	cartoons	cartoon	NOUN	NNS	Number=Plur	8	nsubj:pass	8:nsubj:pass	_
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	8:aux	_
+8	submitted	submit	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
+9	by	by	ADP	IN	_	10	case	10:case	_
+10	participants	participant	NOUN	NNS	Number=Plur	8	obl	8:obl:by	_
+11	from	from	ADP	IN	_	15	case	15:case	_
+12	more	more	ADJ	JJR	Degree=Cmp	14	advmod	14:advmod	_
+13	than	than	ADP	IN	_	12	fixed	12:fixed	_
+14	60	60	NUM	CD	NumType=Card	15	nummod	15:nummod	_
+15	countries	country	NOUN	NNS	Number=Plur	10	nmod	10:nmod:from	_
+16	and	and	CCONJ	CC	_	23	cc	23:cc	_
+17	that	that	SCONJ	IN	_	23	mark	23:mark	_
+18	more	more	ADJ	JJR	Degree=Cmp	20	advmod	20:advmod	_
+19	than	than	ADP	IN	_	18	fixed	18:fixed	_
+20	200	200	NUM	CD	NumType=Card	23	nsubj	23:nsubj	_
+21	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
+22	on	on	ADP	IN	_	23	case	23:case	_
+23	show	show	NOUN	NN	Number=Sing	8	conj	2:ccomp|8:conj:and	SpaceAfter=No
+24	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0011
+# text = He said the top three cartoons will be announced on September 2, with the winners being awarded prizes of 12,000, 8,000 and 5,000 dollars respectively.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+4	top	top	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+5	three	three	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+6	cartoons	cartoon	NOUN	NNS	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
+7	will	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+8	be	be	AUX	VB	VerbForm=Inf	9	aux	9:aux	_
+9	announced	announce	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
+10	on	on	ADP	IN	_	11	case	11:case	_
+11	September	September	PROPN	NNP	Number=Sing	9	obl	9:obl:on	_
+12	2	2	NUM	CD	NumType=Card	11	nummod	11:nummod	SpaceAfter=No
+13	,	,	PUNCT	,	_	9	punct	9:punct	_
+14	with	with	SCONJ	IN	_	18	mark	18:mark	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	winners	winner	NOUN	NNS	Number=Plur	18	nsubj:pass	18:nsubj:pass	_
+17	being	be	AUX	VBG	VerbForm=Ger	18	aux	18:aux	_
+18	awarded	award	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	9:advcl:with	_
+19	prizes	prize	NOUN	NNS	Number=Plur	18	obj	18:obj	_
+20	of	of	ADP	IN	_	26	case	26:case	_
+21	12,000	12,000	NUM	CD	NumType=Card	26	nummod	26:nummod	SpaceAfter=No
+22	,	,	PUNCT	,	_	23	punct	23:punct	_
+23	8,000	8,000	NUM	CD	NumType=Card	21	conj	21:conj:and|26:nummod	_
+24	and	and	CCONJ	CC	_	25	cc	25:cc	_
+25	5,000	5,000	NUM	CD	NumType=Card	21	conj	21:conj:and|26:nummod	_
+26	dollars	dollar	NOUN	NNS	Number=Plur	19	nmod	19:nmod:of	_
+27	respectively	respectively	ADV	RB	_	26	advmod	26:advmod	SpaceAfter=No
+28	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0012
+# text = This cute little stunt is only going to prove just how fanatic the extremist Muslims are.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
+2	cute	cute	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+3	little	little	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	stunt	stunt	NOUN	NN	Number=Sing	7	nsubj	7:nsubj|9:nsubj:xsubj	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+6	only	only	ADV	RB	_	7	advmod	7:advmod	_
+7	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	prove	prove	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	just	just	ADV	RB	_	12	advmod	12:advmod	_
+11	how	how	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
+12	fanatic	fanatic	ADJ	JJ	Degree=Pos	9	ccomp	9:ccomp	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+14	extremist	extremist	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	Muslims	Muslims	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	_
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	12:cop	SpaceAfter=No
+17	.	.	PUNCT	.	_	7	punct	7:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0013
+# text = When they saw a cartoon of their prophet, people had to die.
+1	When	when	ADV	WRB	PronType=Int	3	mark	3:mark	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+3	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:when	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	cartoon	cartoon	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	of	of	ADP	IN	_	8	case	8:case	_
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
+8	prophet	prophet	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	SpaceAfter=No
+9	,	,	PUNCT	,	_	11	punct	11:punct	_
+10	people	people	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj|13:nsubj:xsubj	_
+11	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	die	die	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	SpaceAfter=No
+14	.	.	PUNCT	.	_	11	punct	11:punct	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0014
+# text = When their precious cartoons are released I highly doubt it will look like the end of the world.
+1	When	when	ADV	WRB	PronType=Int	6	mark	6:mark	_
+2	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	precious	precious	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	cartoons	cartoon	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+6	released	release	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	9:advcl:when	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+8	highly	highly	ADV	RB	_	9	advmod	9:advmod	_
+9	doubt	doubt	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+11	will	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	_
+12	look	look	VERB	VB	VerbForm=Inf	9	ccomp	9:ccomp	_
+13	like	like	ADP	IN	_	15	case	15:case	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+15	end	end	NOUN	NN	Number=Sing	12	obl	12:obl:like	_
+16	of	of	ADP	IN	_	18	case	18:case	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+18	world	world	NOUN	NN	Number=Sing	15	nmod	15:nmod:of	SpaceAfter=No
+19	.	.	PUNCT	.	_	9	punct	9:punct	_
+
+# newdoc id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0001
+# text = US Marines moved into most of Fallujah on Wednesday, though they were still meeting pockets of resistance.
+1	US	US	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Marines	Marines	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+3	moved	move	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	into	into	ADP	IN	_	5	case	5:case	_
+5	most	most	ADJ	JJS	Degree=Sup	3	obl	3:obl:into	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	Fallujah	Fallujah	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	_
+8	on	on	ADP	IN	_	9	case	9:case	_
+9	Wednesday	Wednesday	PROPN	NNP	Number=Sing	3	obl	3:obl:on	SpaceAfter=No
+10	,	,	PUNCT	,	_	3	punct	3:punct	_
+11	though	though	SCONJ	IN	_	15	mark	15:mark	_
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
+13	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	aux	15:aux	_
+14	still	still	ADV	RB	_	15	advmod	15:advmod	_
+15	meeting	meet	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:though	_
+16	pockets	pocket	NOUN	NNS	Number=Plur	15	obj	15:obj	_
+17	of	of	ADP	IN	_	18	case	18:case	_
+18	resistance	resistance	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0002
+# text = The Fallujah fighting has killed fair numbers of Iraqi noncombatants, including Shaikh Abdul Wahhab al-Janabi of the respected Association of Muslim Scholars.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	Fallujah	Fallujah	PROPN	NNP	Number=Sing	3	compound	3:compound	_
+3	fighting	fighting	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+5	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+6	fair	fair	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	numbers	number	NOUN	NNS	Number=Plur	5	obj	5:obj	_
+8	of	of	ADP	IN	_	10	case	10:case	_
+9	Iraqi	iraqi	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	noncombatants	noncombatant	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	SpaceAfter=No
+11	,	,	PUNCT	,	_	7	punct	7:punct	_
+12	including	include	VERB	VBG	VerbForm=Ger	13	case	13:case	_
+13	Shaikh	Shaikh	PROPN	NNP	Number=Sing	7	nmod	7:nmod:include	_
+14	Abdul	Abdul	PROPN	NNP	Number=Sing	13	flat	13:flat	_
+15	Wahhab	Wahhab	PROPN	NNP	Number=Sing	13	flat	13:flat	_
+16	al	al	PROPN	NNP	Number=Sing	13	flat	13:flat	SpaceAfter=No
+17	-	-	PUNCT	HYPH	_	13	punct	13:punct	SpaceAfter=No
+18	Janabi	Janabi	PROPN	NNP	Number=Sing	13	flat	13:flat	_
+19	of	of	ADP	IN	_	22	case	22:case	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+21	respected	respect	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	22:amod	_
+22	Association	Association	PROPN	NNP	Number=Sing	13	nmod	13:nmod:of	_
+23	of	of	ADP	IN	_	25	case	25:case	_
+24	Muslim	Muslim	PROPN	NNP	Number=Sing	25	compound	25:compound	_
+25	Scholars	Scholars	PROPN	NNP	Number=Sing	22	nmod	22:nmod:of	SpaceAfter=No
+26	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0003
+# text = Armed clashes broke out in several northern Iraqi cities on Wednesday, leaving some 22 persons dead in Mosul, Baiji, and Tuz.
+1	Armed	armed	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	clashes	clash	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	broke	break	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	out	out	ADP	RP	_	3	compound:prt	3:compound:prt	_
+5	in	in	ADP	IN	_	9	case	9:case	_
+6	several	several	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+7	northern	northern	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+8	Iraqi	iraqi	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	cities	city	NOUN	NNS	Number=Plur	3	obl	3:obl:in	_
+10	on	on	ADP	IN	_	11	case	11:case	_
+11	Wednesday	Wednesday	PROPN	NNP	Number=Sing	3	obl	3:obl:on	SpaceAfter=No
+12	,	,	PUNCT	,	_	3	punct	3:punct	_
+13	leaving	leave	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl	_
+14	some	some	DET	DT	_	16	det	16:det	_
+15	22	22	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+16	persons	person	NOUN	NNS	Number=Plur	13	obj	13:obj|17:nsubj:xsubj	_
+17	dead	dead	ADJ	JJ	Degree=Pos	13	xcomp	13:xcomp	_
+18	in	in	ADP	IN	_	19	case	19:case	_
+19	Mosul	Mosul	PROPN	NNP	Number=Sing	13	obl	13:obl:in	SpaceAfter=No
+20	,	,	PUNCT	,	_	21	punct	21:punct	_
+21	Baiji	Baiji	PROPN	NNP	Number=Sing	19	conj	13:obl:in|19:conj:and	SpaceAfter=No
+22	,	,	PUNCT	,	_	24	punct	24:punct	_
+23	and	and	CCONJ	CC	_	24	cc	24:cc	_
+24	Tuz	Tuz	PROPN	NNP	Number=Sing	19	conj	13:obl:in|19:conj:and	SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0004
+# text = Hundreds of persons mounted demonstrations against the Fallujah campaign in Tikrit and Huwaijah, as well, according to az-Zaman .
+1	Hundreds	hundred	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+2	of	of	ADP	IN	_	3	case	3:case	_
+3	persons	person	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	_
+4	mounted	mount	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	demonstrations	demonstration	NOUN	NNS	Number=Plur	4	obj	4:obj	_
+6	against	against	ADP	IN	_	9	case	9:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	Fallujah	Fallujah	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	campaign	campaign	NOUN	NN	Number=Sing	5	nmod	5:nmod:against	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	Tikrit	Tikrit	PROPN	NNP	Number=Sing	4	obl	4:obl:in	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	Huwaijah	Huwaijah	PROPN	NNP	Number=Sing	11	conj	4:obl:in|11:conj:and	SpaceAfter=No
+14	,	,	PUNCT	,	_	11	punct	11:punct	_
+15	as	as	ADV	RB	_	11	advmod	11:advmod	_
+16	well	well	ADV	RB	Degree=Pos	15	fixed	15:fixed	SpaceAfter=No
+17	,	,	PUNCT	,	_	4	punct	4:punct	_
+18	according	accord	VERB	VBG	VerbForm=Ger	20	case	20:case	_
+19	to	to	ADP	IN	_	18	fixed	18:fixed	_
+20	az	az	PROPN	NNP	Number=Sing	4	obl	4:obl:accord_to	SpaceAfter=No
+21	-	-	PUNCT	HYPH	_	20	punct	20:punct	SpaceAfter=No
+22	Zaman	Zaman	PROPN	NNP	Number=Sing	20	flat	20:flat	_
+23	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0005
+# text = The battles and demonstrations were provoked by the US assault on Fallujah.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	battles	battle	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	demonstrations	demonstration	NOUN	NNS	Number=Plur	2	conj	2:conj:and|6:nsubj:pass	_
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+6	provoked	provoke	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+7	by	by	ADP	IN	_	10	case	10:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	US	US	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+10	assault	assault	NOUN	NN	Number=Sing	6	obl	6:obl:by	_
+11	on	on	ADP	IN	_	12	case	12:case	_
+12	Fallujah	Fallujah	PROPN	NNP	Number=Sing	10	nmod	10:nmod:on	SpaceAfter=No
+13	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0006
+# text = Guerrillas threatened to assassinate Prime Minister Iyad Allawi and Minister of Defense Hazem Shaalan in retaliation for the attack.
+1	Guerrillas	guerrilla	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj|4:nsubj:xsubj	_
+2	threatened	threaten	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	to	to	PART	TO	_	4	mark	4:mark	_
+4	assassinate	assassinate	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+5	Prime	Prime	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Minister	Minister	PROPN	NNP	Number=Sing	4	obj	4:obj	_
+7	Iyad	Iyad	PROPN	NNP	Number=Sing	6	flat	6:flat	_
+8	Allawi	Allawi	PROPN	NNP	Number=Sing	6	flat	6:flat	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	Minister	Minister	PROPN	NNP	Number=Sing	6	conj	4:obj|6:conj:and	_
+11	of	of	ADP	IN	_	12	case	12:case	_
+12	Defense	Defense	PROPN	NNP	Number=Sing	10	nmod	10:nmod:of	_
+13	Hazem	Hazem	PROPN	NNP	Number=Sing	10	flat	10:flat	_
+14	Shaalan	Shaalan	PROPN	NNP	Number=Sing	10	flat	10:flat	_
+15	in	in	ADP	IN	_	16	case	16:case	_
+16	retaliation	retaliation	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
+17	for	for	ADP	IN	_	19	case	19:case	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	attack	attack	NOUN	NN	Number=Sing	16	nmod	16:nmod:for	SpaceAfter=No
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0007
+# text = Allawi's aged cousin and the man's wife and daughter-in-law were abducted and guerrillas threaten to behead them if the Fallujah compaign is not stopped.
+1	Allawi	Allawi	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
+2	's	's	PART	POS	_	1	case	1:case	_
+3	aged	aged	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	cousin	cousin	NOUN	NN	Number=Sing	17	nsubj:pass	17:nsubj:pass	_
+5	and	and	CCONJ	CC	_	9	cc	9:cc	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	man	man	NOUN	NN	Number=Sing	9	nmod:poss	9:nmod:poss	SpaceAfter=No
+8	's	's	PART	POS	_	7	case	7:case	_
+9	wife	wife	NOUN	NN	Number=Sing	4	conj	4:conj:and|17:nsubj:pass	_
+10	and	and	CCONJ	CC	_	11	cc	11:cc	_
+11	daughter	daughter	NOUN	NN	Number=Sing	4	conj	4:conj:and|17:nsubj:pass	SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	punct	11:punct	SpaceAfter=No
+13	in	in	ADP	IN	_	15	case	15:case	SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
+15	law	law	NOUN	NN	Number=Sing	11	nmod	11:nmod:in	_
+16	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux:pass	17:aux:pass	_
+17	abducted	abduct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+18	and	and	CCONJ	CC	_	20	cc	20:cc	_
+19	guerrillas	guerrilla	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj|22:nsubj:xsubj	_
+20	threaten	threaten	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	conj	17:conj:and	_
+21	to	to	PART	TO	_	22	mark	22:mark	_
+22	behead	behead	VERB	VB	VerbForm=Inf	20	xcomp	20:xcomp	_
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	obj	22:obj	_
+24	if	if	SCONJ	IN	_	30	mark	30:mark	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
+26	Fallujah	Fallujah	PROPN	NNP	Number=Sing	27	compound	27:compound	_
+27	compaign	compaign	NOUN	NN	Number=Sing	30	nsubj:pass	30:nsubj:pass	_
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux:pass	30:aux:pass	_
+29	not	not	PART	RB	_	30	advmod	30:advmod	_
+30	stopped	stop	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	advcl	22:advcl:if	SpaceAfter=No
+31	.	.	PUNCT	.	_	17	punct	17:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0008
+# text = In Iraqi society, PM Allawi is responsible for protecting his clan, including especially his first cousins, so this kidnapping makes him look weak and brings substantial shame on him.
+1	In	in	ADP	IN	_	3	case	3:case	_
+2	Iraqi	iraqi	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	society	society	NOUN	NN	Number=Sing	8	obl	8:obl:in	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	8:punct	_
+5	PM	PM	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Allawi	Allawi	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+8	responsible	responsible	ADJ	JJ	Degree=Pos	0	root	0:root	_
+9	for	for	SCONJ	IN	_	10	mark	10:mark	_
+10	protecting	protect	VERB	VBG	VerbForm=Ger	8	advcl	8:advcl:for	_
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	clan	clan	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
+13	,	,	PUNCT	,	_	12	punct	12:punct	_
+14	including	include	VERB	VBG	VerbForm=Ger	18	case	18:case	_
+15	especially	especially	ADV	RB	_	18	advmod	18:advmod	_
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+17	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	18	amod	18:amod	_
+18	cousins	cousin	NOUN	NNS	Number=Plur	12	nmod	12:nmod:include	SpaceAfter=No
+19	,	,	PUNCT	,	_	8	punct	8:punct	_
+20	so	so	ADV	RB	_	23	advmod	23:advmod	_
+21	this	this	DET	DT	Number=Sing|PronType=Dem	22	det	22:det	_
+22	kidnapping	kidnapping	NOUN	NN	Number=Sing	23	nsubj	23:nsubj|28:nsubj	_
+23	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	8:parataxis	_
+24	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	23:obj|25:nsubj:xsubj|26:nsubj:xsubj	_
+25	look	look	VERB	VB	VerbForm=Inf	23	xcomp	23:xcomp	_
+26	weak	weak	ADJ	JJ	Degree=Pos	25	xcomp	25:xcomp	_
+27	and	and	CCONJ	CC	_	28	cc	28:cc	_
+28	brings	bring	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	conj	23:conj:and	_
+29	substantial	substantial	ADJ	JJ	Degree=Pos	30	amod	30:amod	_
+30	shame	shame	NOUN	NN	Number=Sing	28	obj	28:obj	_
+31	on	on	ADP	IN	_	32	case	32:case	_
+32	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obl	28:obl:on	SpaceAfter=No
+33	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0009
+# text = The US Marines took most of Fallujah Wednesday, but still face pockets of resistance.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	US	US	PROPN	NNP	Number=Sing	3	compound	3:compound	_
+3	Marines	Marines	PROPN	NNPS	Number=Plur	4	nsubj	4:nsubj|12:nsubj	_
+4	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	most	most	ADJ	JJS	Degree=Sup	4	obj	4:obj	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	Fallujah	Fallujah	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	_
+8	Wednesday	Wednesday	PROPN	NNP	Number=Sing	4	obl:tmod	4:obl:tmod	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	12:punct	_
+10	but	but	CCONJ	CC	_	12	cc	12:cc	_
+11	still	still	ADV	RB	_	12	advmod	12:advmod	_
+12	face	face	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	4:conj:but	_
+13	pockets	pocket	NOUN	NNS	Number=Plur	12	obj	12:obj	_
+14	of	of	ADP	IN	_	15	case	15:case	_
+15	resistance	resistance	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	SpaceAfter=No
+16	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0010
+# text = If Samarra and other cities are any guide, those pockets of resistance could go on bedeviling the US for some time to come.
+1	If	if	SCONJ	IN	_	8	mark	8:mark	_
+2	Samarra	Samarra	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
+3	and	and	CCONJ	CC	_	5	cc	5:cc	_
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	cities	city	NOUN	NNS	Number=Plur	2	conj	2:conj:and|8:nsubj	_
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+7	any	any	DET	DT	_	8	det	8:det	_
+8	guide	guide	NOUN	NN	Number=Sing	15	advcl	15:advcl:if	SpaceAfter=No
+9	,	,	PUNCT	,	_	15	punct	15:punct	_
+10	those	those	DET	DT	Number=Plur|PronType=Dem	11	det	11:det	_
+11	pockets	pocket	NOUN	NNS	Number=Plur	15	nsubj	15:nsubj|17:nsubj:xsubj	_
+12	of	of	ADP	IN	_	13	case	13:case	_
+13	resistance	resistance	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	_
+14	could	could	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+15	go	go	VERB	VB	VerbForm=Inf	0	root	0:root	_
+16	on	on	ADP	RP	_	15	compound:prt	15:compound:prt	_
+17	bedeviling	bedevil	VERB	VBG	VerbForm=Ger	15	xcomp	15:xcomp	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	US	US	PROPN	NNP	Number=Sing	17	obj	17:obj	_
+20	for	for	ADP	IN	_	22	case	22:case	_
+21	some	some	DET	DT	_	22	det	22:det	_
+22	time	time	NOUN	NN	Number=Sing	17	obl	17:obl:for	_
+23	to	to	PART	TO	_	24	mark	24:mark	_
+24	come	come	VERB	VB	VerbForm=Inf	22	acl	22:acl:to	SpaceAfter=No
+25	.	.	PUNCT	.	_	15	punct	15:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0011
+# text = The intrepid Ed Wong of the NYT has more on the Sunni boycott of the elections.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	intrepid	intrepid	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	Ed	Ed	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
+4	Wong	Wong	PROPN	NNP	Number=Sing	3	flat	3:flat	_
+5	of	of	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	NYT	NYT	PROPN	NNP	Number=Sing	3	nmod	3:nmod:of	_
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+9	more	more	ADJ	JJR	Degree=Cmp	8	obj	8:obj	_
+10	on	on	ADP	IN	_	13	case	13:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+12	Sunni	sunni	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	boycott	boycott	NOUN	NN	Number=Sing	9	obl	9:obl:on	_
+14	of	of	ADP	IN	_	16	case	16:case	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	elections	election	NOUN	NNS	Number=Plur	13	nmod	13:nmod:of	SpaceAfter=No
+17	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0012
+# text = He reports that the Iraqi Islamic Party, which had earlier been absolutely committed to getting out the Sunni vote, is now wavering and saying their position will depend on the situation.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	that	that	SCONJ	IN	_	24	mark	24:mark	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+5	Iraqi	Iraqi	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+6	Islamic	Islamic	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+7	Party	Party	PROPN	NNP	Number=Sing	24	nsubj	14:nsubj:pass|24:nsubj|26:nsubj	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	which	which	PRON	WDT	PronType=Rel	14	nsubj:pass	7:ref	_
+10	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	14:aux	_
+11	earlier	earlier	ADV	RBR	Degree=Cmp	14	advmod	14:advmod	_
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14	aux:pass	14:aux:pass	_
+13	absolutely	absolutely	ADV	RB	_	14	advmod	14:advmod	_
+14	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	7:acl:relcl	_
+15	to	to	SCONJ	IN	_	16	mark	16:mark	_
+16	getting	get	VERB	VBG	VerbForm=Ger	14	advcl	14:advcl:to	_
+17	out	out	ADP	RP	_	16	compound:prt	16:compound:prt	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+19	Sunni	sunni	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	vote	vote	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
+21	,	,	PUNCT	,	_	7	punct	7:punct	_
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	24:aux	_
+23	now	now	ADV	RB	_	24	advmod	24:advmod	_
+24	wavering	waver	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	2:ccomp	_
+25	and	and	CCONJ	CC	_	26	cc	26:cc	_
+26	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	24	conj	2:ccomp|24:conj:and	_
+27	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	nmod:poss	28:nmod:poss	_
+28	position	position	NOUN	NN	Number=Sing	30	nsubj	30:nsubj	_
+29	will	will	AUX	MD	VerbForm=Fin	30	aux	30:aux	_
+30	depend	depend	VERB	VB	VerbForm=Inf	26	ccomp	26:ccomp	_
+31	on	on	ADP	IN	_	33	case	33:case	_
+32	the	the	DET	DT	Definite=Def|PronType=Art	33	det	33:det	_
+33	situation	situation	NOUN	NN	Number=Sing	30	obl	30:obl:on	SpaceAfter=No
+34	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0013
+# text = The outbreak of demonstrations and violence throughout the Sunni Arab regions on Wednesday did not bode well for Sunni participation in the January elections.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	outbreak	outbreak	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	demonstrations	demonstration	NOUN	NNS	Number=Plur	2	nmod	2:nmod:of	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	violence	violence	NOUN	NN	Number=Sing	4	conj	2:nmod:of|4:conj:and	_
+7	throughout	throughout	ADP	IN	_	11	case	11:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+9	Sunni	sunni	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	Arab	arab	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	regions	region	NOUN	NNS	Number=Plur	2	nmod	2:nmod:throughout	_
+12	on	on	ADP	IN	_	13	case	13:case	_
+13	Wednesday	Wednesday	PROPN	NNP	Number=Sing	2	nmod	2:nmod:on	_
+14	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	aux	16:aux	_
+15	not	not	PART	RB	_	16	advmod	16:advmod	_
+16	bode	bode	VERB	VB	VerbForm=Inf	0	root	0:root	_
+17	well	well	ADV	RB	Degree=Pos	16	advmod	16:advmod	_
+18	for	for	ADP	IN	_	20	case	20:case	_
+19	Sunni	sunni	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	participation	participation	NOUN	NN	Number=Sing	16	obl	16:obl:for	_
+21	in	in	ADP	IN	_	24	case	24:case	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+23	January	January	PROPN	NNP	Number=Sing	24	compound	24:compound	_
+24	elections	election	NOUN	NNS	Number=Plur	20	nmod	20:nmod:in	SpaceAfter=No
+25	.	.	PUNCT	.	_	16	punct	16:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0014
+# text = Jim Lobe has more on the political implications of the Fallujah assault, both in Iraq and in Washington.
+1	Jim	Jim	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+2	Lobe	Lobe	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	more	more	ADJ	JJR	Degree=Cmp	3	obj	3:obj	_
+5	on	on	ADP	IN	_	8	case	8:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+7	political	political	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	implications	implication	NOUN	NNS	Number=Plur	4	obl	4:obl:on	_
+9	of	of	ADP	IN	_	12	case	12:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+11	Fallujah	Fallujah	PROPN	NNP	Number=Sing	12	compound	12:compound	_
+12	assault	assault	NOUN	NN	Number=Sing	8	nmod	8:nmod:of	SpaceAfter=No
+13	,	,	PUNCT	,	_	8	punct	8:punct	_
+14	both	both	CCONJ	CC	_	16	cc:preconj	16:cc:preconj	_
+15	in	in	ADP	IN	_	16	case	16:case	_
+16	Iraq	Iraq	PROPN	NNP	Number=Sing	8	nmod	8:nmod:in	_
+17	and	and	CCONJ	CC	_	19	cc	19:cc	_
+18	in	in	ADP	IN	_	19	case	19:case	_
+19	Washington	Washington	PROPN	NNP	Number=Sing	16	conj	8:nmod:in|16:conj:and	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0015
+# text = For some black satire on Fallujah, see Unconfirmed Sources which has some fun with my Weblog.
+1	For	for	ADP	IN	_	4	case	4:case	_
+2	some	some	DET	DT	_	4	det	4:det	_
+3	black	black	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	satire	satire	NOUN	NN	Number=Sing	8	obl	8:obl:for	_
+5	on	on	ADP	IN	_	6	case	6:case	_
+6	Fallujah	Fallujah	PROPN	NNP	Number=Sing	4	nmod	4:nmod:on	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+9	Unconfirmed	Unconfirmed	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+10	Sources	Sources	PROPN	NNPS	Number=Plur	8	obj	8:obj|12:nsubj	_
+11	which	which	PRON	WDT	PronType=Rel	12	nsubj	10:ref	_
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
+13	some	some	DET	DT	_	14	det	14:det	_
+14	fun	fun	NOUN	NN	Number=Sing	12	obj	12:obj	_
+15	with	with	ADP	IN	_	17	case	17:case	_
+16	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+17	Weblog	Weblog	PROPN	NNP	Number=Sing	14	nmod	14:nmod:with	SpaceAfter=No
+18	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0016
+# text = [Am at a conference and can't blog much right now but will try to catch up the next couple of days.]
+1	[	[	PUNCT	-LRB-	_	5	punct	5:punct	SpaceAfter=No
+2	Am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	at	at	ADP	IN	_	5	case	5:case	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	conference	conference	NOUN	NN	Number=Sing	0	root	0:root	_
+6	and	and	CCONJ	CC	_	9	cc	9:cc	_
+7	ca	can	AUX	MD	VerbForm=Fin	9	aux	9:aux	SpaceAfter=No
+8	n't	not	PART	RB	_	9	advmod	9:advmod	_
+9	blog	blog	VERB	VB	VerbForm=Inf	5	conj	5:conj:and	_
+10	much	much	ADV	RB	_	11	advmod	11:advmod	_
+11	right	right	ADV	RB	_	9	obj	9:obj	_
+12	now	now	ADV	RB	_	9	advmod	9:advmod	_
+13	but	but	CCONJ	CC	_	15	cc	15:cc	_
+14	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+15	try	try	VERB	VB	VerbForm=Inf	5	conj	5:conj:but	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	catch	catch	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	_
+18	up	up	ADP	RP	_	17	compound:prt	17:compound:prt	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+20	next	next	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
+21	couple	couple	NOUN	NN	Number=Sing	17	obl:tmod	17:obl:tmod	_
+22	of	of	ADP	IN	_	23	case	23:case	_
+23	days	day	NOUN	NNS	Number=Plur	21	nmod	21:nmod:of	SpaceAfter=No
+24	.	.	PUNCT	.	_	5	punct	5:punct	SpaceAfter=No
+25	]	]	PUNCT	-RRB-	_	5	punct	5:punct	_
+
+# newdoc id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0001
+# text = The hottest item on Christmas wish lists this year is nuclear weapons.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	hottest	hottest	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
+3	item	item	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+4	on	on	ADP	IN	_	7	case	7:case	_
+5	Christmas	Christmas	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+6	wish	wish	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	lists	list	NOUN	NNS	Number=Plur	3	nmod	3:nmod:on	_
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
+9	year	year	NOUN	NN	Number=Sing	3	nmod:tmod	3:nmod:tmod	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+11	nuclear	nuclear	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	weapons	weapon	NOUN	NNS	Number=Plur	0	root	0:root	SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	12:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0002
+# text = Al-Qaeda wants them, Iran wants them, Russia wants the better ones, and all the US wants is to give them all a piece of coal.
+1	Al	Al	PROPN	NNP	Number=Sing	3	compound	3:compound	SpaceAfter=No
+2	-	-	PUNCT	HYPH	_	3	punct	3:punct	SpaceAfter=No
+3	Qaeda	Qaeda	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
+4	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	Iran	Iran	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
+8	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	SpaceAfter=No
+10	,	,	PUNCT	,	_	12	punct	12:punct	_
+11	Russia	Russia	PROPN	NNP	Number=Sing	12	nsubj	12:nsubj	_
+12	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+14	better	better	ADJ	JJR	Degree=Cmp	15	amod	15:amod	_
+15	ones	one	NOUN	NNS	Number=Plur	12	obj	12:obj	SpaceAfter=No
+16	,	,	PUNCT	,	_	22	punct	22:punct	_
+17	and	and	CCONJ	CC	_	22	cc	22:cc	_
+18	all	all	DET	DT	_	22	nsubj	22:nsubj	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+20	US	US	PROPN	NNP	Number=Sing	21	nsubj	21:nsubj	_
+21	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	18:acl:relcl	_
+22	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
+23	to	to	PART	TO	_	24	mark	24:mark	_
+24	give	give	VERB	VB	VerbForm=Inf	22	ccomp	22:ccomp	_
+25	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	24	iobj	24:iobj	_
+26	all	all	DET	DT	_	25	det	25:det	_
+27	a	a	DET	DT	Definite=Ind|PronType=Art	28	det	28:det	_
+28	piece	piece	NOUN	NN	Number=Sing	24	obj	24:obj	_
+29	of	of	ADP	IN	_	30	case	30:case	_
+30	coal	coal	NOUN	NN	Number=Sing	28	nmod	28:nmod:of	SpaceAfter=No
+31	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0003
+# text = For the last few years there have been tensions with Iran’s nuclear program with word coming this week that a deal was reached through the European Union that meets with the approval of the International Atomic Energy Agency.
+1	For	for	ADP	IN	_	5	case	5:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+3	last	last	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+4	few	few	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	years	year	NOUN	NNS	Number=Plur	8	obl	8:obl:for	_
+6	there	there	ADV	EX	_	8	expl	8:expl	_
+7	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+8	been	be	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+9	tensions	tension	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
+10	with	with	ADP	IN	_	14	case	14:case	_
+11	Iran	Iran	PROPN	NNP	Number=Sing	14	nmod:poss	14:nmod:poss	SpaceAfter=No
+12	’s	's	PART	POS	_	11	case	11:case	_
+13	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	program	program	NOUN	NN	Number=Sing	9	nmod	9:nmod:with	_
+15	with	with	ADP	IN	_	16	case	16:case	_
+16	word	word	NOUN	NN	Number=Sing	8	obl	8:obl:with|24:mark	_
+17	coming	come	VERB	VBG	VerbForm=Ger	16	acl	16:acl	_
+18	this	this	DET	DT	Number=Sing|PronType=Dem	19	det	19:det	_
+19	week	week	NOUN	NN	Number=Sing	17	obl:tmod	17:obl:tmod	_
+20	that	that	SCONJ	IN	_	24	mark	16:ref	_
+21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
+22	deal	deal	NOUN	NN	Number=Sing	24	nsubj:pass	24:nsubj:pass|30:nsubj	_
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux:pass	24:aux:pass	_
+24	reached	reach	VERB	VBN	Tense=Past|VerbForm=Part	16	acl:relcl	16:acl:relcl	_
+25	through	through	ADP	IN	_	28	case	28:case	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	28	det	28:det	_
+27	European	European	PROPN	NNP	Number=Sing	28	compound	28:compound	_
+28	Union	Union	PROPN	NNP	Number=Sing	24	obl	24:obl:through	_
+29	that	that	PRON	WDT	PronType=Rel	30	nsubj	22:ref	_
+30	meets	meet	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	22:acl:relcl	_
+31	with	with	ADP	IN	_	33	case	33:case	_
+32	the	the	DET	DT	Definite=Def|PronType=Art	33	det	33:det	_
+33	approval	approval	NOUN	NN	Number=Sing	30	obl	30:obl:with	_
+34	of	of	ADP	IN	_	39	case	39:case	_
+35	the	the	DET	DT	Definite=Def|PronType=Art	39	det	39:det	_
+36	International	International	PROPN	NNP	Number=Sing	39	compound	39:compound	_
+37	Atomic	Atomic	PROPN	NNP	Number=Sing	38	compound	38:compound	_
+38	Energy	Energy	PROPN	NNP	Number=Sing	39	compound	39:compound	_
+39	Agency	Agency	PROPN	NNP	Number=Sing	33	nmod	33:nmod:of	SpaceAfter=No
+40	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0004
+# text = At the same time, an Iranian Opposition Group released what they call proof of a covert nuclear weapons program.
+1	At	at	ADP	IN	_	4	case	4:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+3	same	same	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	time	time	NOUN	NN	Number=Sing	10	obl	10:obl:at	SpaceAfter=No
+5	,	,	PUNCT	,	_	10	punct	10:punct	_
+6	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+7	Iranian	iranian	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+8	Opposition	opposition	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	Group	group	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
+10	released	release	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+11	what	what	PRON	WP	PronType=Int	13	obj	13:obj|14:nsubj:xsubj	_
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
+13	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	10:ccomp	_
+14	proof	proof	NOUN	NN	Number=Sing	13	xcomp	13:xcomp	_
+15	of	of	ADP	IN	_	20	case	20:case	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
+17	covert	covert	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+18	nuclear	nuclear	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	weapons	weapon	NOUN	NNS	Number=Plur	20	compound	20:compound	_
+20	program	program	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	SpaceAfter=No
+21	.	.	PUNCT	.	_	10	punct	10:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0005
+# text = Arial photos, loose connections to AQ Kahn and Libya make up the evidence that the group presented.
+1	Arial	arial	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	photos	photo	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj	SpaceAfter=No
+3	,	,	PUNCT	,	_	5	punct	5:punct	_
+4	loose	loose	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	connections	connection	NOUN	NNS	Number=Plur	2	conj	2:conj|11:nsubj	_
+6	to	to	ADP	IN	_	7	case	7:case	_
+7	AQ	AQ	PROPN	NNP	Number=Sing	5	nmod	5:nmod:to	_
+8	Kahn	Kahn	PROPN	NNP	Number=Sing	7	flat	7:flat	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	Libya	Libya	PROPN	NNP	Number=Sing	7	conj	5:nmod:to|7:conj:and	_
+11	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+12	up	up	ADP	RP	_	11	compound:prt	11:compound:prt	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	evidence	evidence	NOUN	NN	Number=Sing	11	obj	11:obj|18:obj	_
+15	that	that	PRON	WDT	PronType=Rel	18	obj	14:ref	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	group	group	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+18	presented	present	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	acl:relcl	14:acl:relcl	SpaceAfter=No
+19	.	.	PUNCT	.	_	11	punct	11:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0006
+# text = Russia also announced that it was seeking and building the best nukes the world’s ever seen.
+1	Russia	Russia	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+2	also	also	ADV	RB	_	3	advmod	3:advmod	_
+3	announced	announce	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	that	that	SCONJ	IN	_	7	mark	7:mark	_
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj|9:nsubj	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
+7	seeking	seek	VERB	VBG	Tense=Pres|VerbForm=Part	3	ccomp	3:ccomp	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	building	build	VERB	VBG	Tense=Pres|VerbForm=Part	7	conj	3:ccomp|7:conj:and	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+11	best	best	ADJ	JJS	Degree=Sup	12	amod	12:amod	_
+12	nukes	nuke	NOUN	NNS	Number=Plur	7	obj	7:obj|9:obj	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	world	world	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	SpaceAfter=No
+15	’s	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	17:aux	_
+16	ever	ever	ADV	RB	_	17	advmod	17:advmod	_
+17	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	12	acl:relcl	12:acl:relcl	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0007
+# text = President Vladimir Putin said Russia is will have new nuclear weapons that other countries do not and will not have.
+1	President	President	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
+2	Vladimir	Vladimir	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+3	Putin	Putin	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+4	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	Russia	Russia	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
+6	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	8:reparandum	_
+7	will	will	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+8	have	have	VERB	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
+9	new	new	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	nuclear	nuclear	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	weapons	weapon	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+12	that	that	PRON	WDT	PronType=Rel	20	obj	20:obj	_
+13	other	other	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	countries	country	NOUN	NNS	Number=Plur	15	nsubj	15:nsubj|20:nsubj	_
+15	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
+16	not	not	PART	RB	_	15	advmod	15:advmod	_
+17	and	and	CCONJ	CC	_	20	cc	20:cc	_
+18	will	will	AUX	MD	VerbForm=Fin	20	aux	20:aux	_
+19	not	not	PART	RB	_	20	advmod	20:advmod	_
+20	have	have	VERB	VB	VerbForm=Inf	15	conj	11:acl:relcl|15:conj:and	SpaceAfter=No
+21	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0008
+# text = With the demand so high, the question arises on to who should be or has the right to be the Santa of nuclear weapons.
+1	With	with	SCONJ	IN	_	5	mark	5:mark	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	demand	demand	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+4	so	so	ADV	RB	_	5	advmod	5:advmod	_
+5	high	high	ADJ	JJ	Degree=Pos	9	advcl	9:advcl:with	SpaceAfter=No
+6	,	,	PUNCT	,	_	9	punct	9:punct	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	question	question	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+9	arises	arise	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+10	on	on	ADP	IN	_	14	mark	14:mark	_
+11	to	to	SCONJ	IN	_	14	mark	14:mark	_
+12	who	who	PRON	WP	PronType=Int	14	nsubj	14:nsubj|16:nsubj	_
+13	should	should	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
+14	be	be	AUX	VB	VerbForm=Inf	9	obl	9:obl	_
+15	or	or	CCONJ	CC	_	16	cc	16:cc	_
+16	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	9:obl|14:conj:or	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+18	right	right	NOUN	NN	Number=Sing	16	obj	16:obj	_
+19	to	to	PART	TO	_	22	mark	22:mark	_
+20	be	be	AUX	VB	VerbForm=Inf	22	cop	22:cop	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+22	Santa	Santa	PROPN	NNP	Number=Sing	18	acl	18:acl:to	_
+23	of	of	ADP	IN	_	25	case	25:case	_
+24	nuclear	nuclear	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	weapons	weapon	NOUN	NNS	Number=Plur	22	nmod	22:nmod:of	SpaceAfter=No
+26	.	.	PUNCT	.	_	9	punct	9:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0009
+# text = Right now that seems to be the US, EU, and IAEA.
+1	Right	right	ADV	RB	_	2	advmod	2:advmod	_
+2	now	now	ADV	RB	_	4	advmod	4:advmod	_
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj|8:nsubj:xsubj|10:nsubj:xsubj|13:nsubj:xsubj	_
+4	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	to	to	PART	TO	_	8	mark	8:mark	_
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	8:cop	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	US	US	PROPN	NNP	Number=Sing	4	xcomp	4:xcomp	SpaceAfter=No
+9	,	,	PUNCT	,	_	10	punct	10:punct	_
+10	EU	EU	PROPN	NNP	Number=Sing	8	conj	4:xcomp|8:conj:and	SpaceAfter=No
+11	,	,	PUNCT	,	_	13	punct	13:punct	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	IAEA	IAEA	PROPN	NNP	Number=Sing	8	conj	4:xcomp|8:conj:and	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0010
+# text = But not always do those three agree, and not always are their decisions equal.
+1	But	but	CCONJ	CC	_	7	cc	7:cc	_
+2	not	not	PART	RB	_	3	advmod	3:advmod	_
+3	always	always	ADV	RB	_	7	advmod	7:advmod	_
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+5	those	those	DET	DT	Number=Plur|PronType=Dem	6	det	6:det	_
+6	three	three	NUM	CD	NumType=Card	7	nsubj	7:nsubj	_
+7	agree	agree	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
+8	,	,	PUNCT	,	_	15	punct	15:punct	_
+9	and	and	CCONJ	CC	_	15	cc	15:cc	_
+10	not	not	PART	RB	_	11	advmod	11:advmod	_
+11	always	always	ADV	RB	_	15	advmod	15:advmod	_
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
+14	decisions	decision	NOUN	NNS	Number=Plur	15	nsubj	15:nsubj	_
+15	equal	equal	ADJ	JJ	Degree=Pos	7	conj	7:conj:and	SpaceAfter=No
+16	.	.	PUNCT	.	_	7	punct	7:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0011
+# text = The US has strongly opposed a nuclear weapons program of Iran, yet Israel, which to this day has never officially said that they posses nuclear weapons, ranks around fifth in nuclear strength.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	US	US	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	strongly	strongly	ADV	RB	_	5	advmod	5:advmod	_
+5	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+7	nuclear	nuclear	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	weapons	weapon	NOUN	NNS	Number=Plur	9	compound	9:compound	_
+9	program	program	NOUN	NN	Number=Sing	5	obj	5:obj	_
+10	of	of	ADP	IN	_	11	case	11:case	_
+11	Iran	Iran	PROPN	NNP	Number=Sing	9	nmod	9:nmod:of	SpaceAfter=No
+12	,	,	PUNCT	,	_	30	punct	30:punct	_
+13	yet	yet	CCONJ	CC	_	30	cc	30:cc	_
+14	Israel	Israel	PROPN	NNP	Number=Sing	30	nsubj	23:nsubj|30:nsubj	SpaceAfter=No
+15	,	,	PUNCT	,	_	14	punct	14:punct	_
+16	which	which	PRON	WDT	PronType=Rel	23	nsubj	14:ref	_
+17	to	to	ADP	IN	_	19	case	19:case	_
+18	this	this	DET	DT	Number=Sing|PronType=Dem	19	det	19:det	_
+19	day	day	NOUN	NN	Number=Sing	23	obl	23:obl:to	_
+20	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	23:aux	_
+21	never	never	ADV	RB	_	23	advmod	23:advmod	_
+22	officially	officially	ADV	RB	_	23	advmod	23:advmod	_
+23	said	say	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	14:acl:relcl	_
+24	that	that	SCONJ	IN	_	26	mark	26:mark	_
+25	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	26:nsubj	_
+26	posses	poss	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	ccomp	23:ccomp	_
+27	nuclear	nuclear	ADJ	JJ	Degree=Pos	28	amod	28:amod	_
+28	weapons	weapon	NOUN	NNS	Number=Plur	26	obj	26:obj	SpaceAfter=No
+29	,	,	PUNCT	,	_	30	punct	30:punct	_
+30	ranks	rank	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	5:conj:yet	_
+31	around	around	ADV	RB	_	32	advmod	32:advmod	_
+32	fifth	fifth	ADV	RB	_	30	advmod	30:advmod	_
+33	in	in	ADP	IN	_	35	case	35:case	_
+34	nuclear	nuclear	ADJ	JJ	Degree=Pos	35	amod	35:amod	_
+35	strength	strength	NOUN	NN	Number=Sing	30	obl	30:obl:in	SpaceAfter=No
+36	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0012
+# text = It is estimated that Israel has over 200 nuclear weapons yet neither the US nor any of her allies expresses the slightest concern.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	that	that	SCONJ	IN	_	6	mark	6:mark	_
+5	Israel	Israel	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	_
+7	over	over	ADV	RB	_	8	advmod	8:advmod	_
+8	200	200	NUM	CD	NumType=Card	10	nummod	10:nummod	_
+9	nuclear	nuclear	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	weapons	weapon	NOUN	NNS	Number=Plur	6	obj	6:obj	_
+11	yet	yet	CCONJ	CC	_	20	cc	20:cc	_
+12	neither	neither	CCONJ	CC	_	14	cc:preconj	14:cc:preconj	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	US	US	PROPN	NNP	Number=Sing	20	nsubj	20:nsubj	_
+15	nor	nor	CCONJ	CC	_	16	cc	16:cc	_
+16	any	any	DET	DT	_	14	conj	14:conj:nor|20:nsubj	_
+17	of	of	ADP	IN	_	19	case	19:case	_
+18	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
+19	allies	ally	NOUN	NNS	Number=Plur	16	nmod	16:nmod:of	_
+20	expresses	express	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:yet	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+22	slightest	slightest	ADJ	JJS	Degree=Sup	23	amod	23:amod	_
+23	concern	concern	NOUN	NN	Number=Sing	20	obj	20:obj	SpaceAfter=No
+24	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0013
+# text = North Korea’s Kim Jong Ill also has the bomb at the top of his list and Santa seems to have already come a few years ago.
+1	North	North	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Korea	Korea	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
+3	’s	's	PART	POS	_	2	case	2:case	_
+4	Kim	Kim	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
+5	Jong	Jong	PROPN	NNP	Number=Sing	4	flat	4:flat	_
+6	Ill	Ill	PROPN	NNP	Number=Sing	4	flat	4:flat	_
+7	also	also	ADV	RB	_	8	advmod	8:advmod	_
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	bomb	bomb	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	at	at	ADP	IN	_	13	case	13:case	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	top	top	NOUN	NN	Number=Sing	8	obl	8:obl:at	_
+14	of	of	ADP	IN	_	16	case	16:case	_
+15	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+16	list	list	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	_
+17	and	and	CCONJ	CC	_	19	cc	19:cc	_
+18	Santa	Santa	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj|23:nsubj:xsubj	_
+19	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	8:conj:and	_
+20	to	to	PART	TO	_	23	mark	23:mark	_
+21	have	have	AUX	VB	VerbForm=Inf	23	aux	23:aux	_
+22	already	already	ADV	RB	_	23	advmod	23:advmod	_
+23	come	come	VERB	VBN	Tense=Past|VerbForm=Part	19	xcomp	19:xcomp	_
+24	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	_
+25	few	few	ADJ	JJ	Degree=Pos	26	amod	26:amod	_
+26	years	year	NOUN	NNS	Number=Plur	27	obl:tmod	27:obl:tmod	_
+27	ago	ago	ADV	RB	_	23	advmod	23:advmod	SpaceAfter=No
+28	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0014
+# text = It is rumored that North Korea has at least a couple nuclear weapons.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	rumored	rumor	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	that	that	SCONJ	IN	_	7	mark	7:mark	_
+5	North	North	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Korea	Korea	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
+7	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	_
+8	at	at	ADV	RB	_	9	case	9:case	_
+9	least	least	ADV	RBS	Degree=Sup	11	nmod	11:nmod:at	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+11	couple	couple	NOUN	NN	Number=Sing	13	nummod	13:nummod	_
+12	nuclear	nuclear	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	weapons	weapon	NOUN	NNS	Number=Plur	7	obj	7:obj	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0015
+# text = But getting past who should get them, is who has them, and who is really close.
+1	But	but	CCONJ	CC	_	4	cc	4:cc	_
+2	getting	get	VERB	VBG	VerbForm=Ger	4	aux:pass	4:aux:pass	_
+3	past	past	SCONJ	IN	_	4	case	4:case	_
+4	who	who	PRON	WP	PronType=Int	10	obl	10:obl:past	_
+5	should	should	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+6	get	get	VERB	VB	VerbForm=Inf	4	acl:relcl	4:acl:relcl	_
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	6:obj	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+10	who	who	PRON	WP	PronType=Int	0	root	0:root	_
+11	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	11:obj	SpaceAfter=No
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	and	and	CCONJ	CC	_	15	cc	15:cc	_
+15	who	who	PRON	WP	PronType=Int	10	conj	10:conj:and	_
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
+17	really	really	ADV	RB	_	18	advmod	18:advmod	_
+18	close	close	ADJ	JJ	Degree=Pos	15	acl:relcl	15:acl:relcl	SpaceAfter=No
+19	.	.	PUNCT	.	_	10	punct	10:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0016
+# text = The case against Iran has a feeling of Déjà vu.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	case	case	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	against	against	ADP	IN	_	4	case	4:case	_
+4	Iran	Iran	PROPN	NNP	Number=Sing	2	nmod	2:nmod:against	_
+5	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	feeling	feeling	NOUN	NN	Number=Sing	5	obj	5:obj	_
+8	of	of	ADP	IN	_	10	case	10:case	_
+9	Déjà	déjà	X	FW	Foreign=Yes	10	compound	10:compound	_
+10	vu	vu	X	FW	Foreign=Yes	7	nmod	7:nmod:of	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0017
+# text = Arial photos of the lab were uranium is being enriched, somewhat like those of chemical weapons stockpiles in Iraq.
+1	Arial	arial	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	photos	photo	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+3	of	of	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	lab	lab	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	_
+6	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	uranium	uranium	NOUN	NN	Number=Sing	10	nsubj:pass	10:nsubj:pass	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+9	being	be	AUX	VBG	VerbForm=Ger	10	aux:pass	10:aux:pass	_
+10	enriched	enrich	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	ccomp	6:ccomp	SpaceAfter=No
+11	,	,	PUNCT	,	_	6	punct	6:punct	_
+12	somewhat	somewhat	ADV	RB	_	14	advmod	14:advmod	_
+13	like	like	ADP	IN	_	14	case	14:case	_
+14	those	those	PRON	DT	Number=Plur|PronType=Dem	6	obl	6:obl:like	_
+15	of	of	ADP	IN	_	18	case	18:case	_
+16	chemical	chemical	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	weapons	weapon	NOUN	NNS	Number=Plur	18	compound	18:compound	_
+18	stockpiles	stockpile	NOUN	NNS	Number=Plur	14	nmod	14:nmod:of	_
+19	in	in	ADP	IN	_	20	case	20:case	_
+20	Iraq	Iraq	PROPN	NNP	Number=Sing	18	nmod	18:nmod:in	SpaceAfter=No
+21	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0018
+# text = America cried wolf in Iraq, and what’s scary is that sooner or later, that wolf will probably get us.
+1	America	America	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	cried	cry	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	wolf	wolf	NOUN	NN	Number=Sing	2	obj	2:obj	_
+4	in	in	ADP	IN	_	5	case	5:case	_
+5	Iraq	Iraq	PROPN	NNP	Number=Sing	2	obl	2:obl:in	SpaceAfter=No
+6	,	,	PUNCT	,	_	11	punct	11:punct	_
+7	and	and	CCONJ	CC	_	11	cc	11:cc	_
+8	what	what	PRON	WP	PronType=Int	10	nsubj	10:nsubj	SpaceAfter=No
+9	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+10	scary	scary	ADJ	JJ	Degree=Pos	11	csubj	11:csubj	_
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+12	that	that	SCONJ	IN	_	21	mark	21:mark	_
+13	sooner	sooner	ADV	RB	_	21	advmod	21:advmod	_
+14	or	or	CCONJ	CC	_	15	cc	15:cc	_
+15	later	later	ADV	RB	_	13	conj	13:conj:or|21:advmod	SpaceAfter=No
+16	,	,	PUNCT	,	_	21	punct	21:punct	_
+17	that	that	DET	DT	Number=Sing|PronType=Dem	18	det	18:det	_
+18	wolf	wolf	NOUN	NN	Number=Sing	21	nsubj	21:nsubj	_
+19	will	will	AUX	MD	VerbForm=Fin	21	aux	21:aux	_
+20	probably	probably	ADV	RB	_	21	advmod	21:advmod	_
+21	get	get	VERB	VB	VerbForm=Inf	11	ccomp	11:ccomp	_
+22	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	obj	21:obj	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	2:punct	_
