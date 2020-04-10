@@ -9417,7 +9417,6 @@
 22	Street	Street	PROPN	NNP	Number=Sing	20	obj	20:obj	SpaceAfter=No
 23	,	,	PUNCT	,	_	20	punct	20:punct	_|CheckAttachment=22
 24	many	many	ADJ	JJ	Degree=Pos	6	parataxis	6:parataxis|24.1:nsubj	_|CheckAttachment=22|CheckReln=appos
-24.1	left	left	VERB	VBN	Tense=Past|VerbForm=Part	_	_	6:parataxis	CopyOf=6
 25	for	for	ADP	IN	_	26	case	26:case	_
 26	good	good	ADJ	JJ	Degree=Pos	24	orphan	24.1:obl:for	SpaceAfter=No|CheckReln=nmod
 27	.	.	PUNCT	.	_	6	punct	6:punct	_
