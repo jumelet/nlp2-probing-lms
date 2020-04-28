@@ -20,7 +20,7 @@ class RNNModel(nn.Module):
         self.drop = nn.Dropout(dropout)
         self.encoder = nn.Embedding(ntoken, ninp)
         if rnn_type in ['LSTM', 'GRU']:
-            self.rnn = getattr(nn, rnn_type)(ninp, nhid, nlayers, dropout=dropout)
+            self.rnn = getattr(nn, rnn_type)(ninp, nhid, nlayers, dropout=dropout, batch_first=True)
         else:
             try:
                 nonlinearity = {'RNN_TANH': 'tanh', 'RNN_RELU': 'relu'}[rnn_type]
@@ -53,14 +53,15 @@ class RNNModel(nn.Module):
         self.decoder.bias.data.fill_(0)
         self.decoder.weight.data.uniform_(-initrange, initrange)
 
-    def forward(self, input, hidden):
-        emb = self.drop(self.encoder(input))
+    def forward(self, input, hidden, output_vocab_probs=False):
+        emb = self.encoder(input)
         output, hidden = self.rnn(emb, hidden)
-        output = self.drop(output)
-        #print(output)
-        decoded = self.decoder(output.view(output.size(0)*output.size(1), output.size(2)))
 
-        return decoded.view(output.size(0), output.size(1), decoded.size(1)), hidden
+        if output_vocab_probs:
+            decoded = self.decoder(output.view(output.size(0)*output.size(1), output.size(2)))
+            return decoded
+
+        return output
 
     def init_hidden(self, bsz):
         weight = next(self.parameters()).data
@@ -69,3 +70,4 @@ class RNNModel(nn.Module):
                     weight.new(self.nlayers, bsz, self.nhid).zero_())
         else:
             return weight.new(self.nlayers, bsz, self.nhid).zero_()
+
